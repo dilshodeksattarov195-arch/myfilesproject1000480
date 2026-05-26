@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productealculate",
+        "uuid": 1646880,
+        "checksum": "przdub"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
